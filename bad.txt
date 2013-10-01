@@ -1,0 +1,243 @@
+Fred P Flintstone 3rd         Birth Date:      0/32/1984
+1722 Pebble Lane              License Date:    1/1/2013
+Bedrock City, BC 5770-789     Expiration Date: 8/15/1996
+Call Sign: KR0BT              Radio Class:     N
+
+Name Field
+	-Invalid Character in the Name Field
+State Field
+	-Invalid State Code
+Zip Code
+	-Invalid 5 Digit Zip Code
+	-Invalid 4 Digit Zip Code
+Birth Date
+	-Invalid Month in Birthday
+	-Invalid Day in Birthday
+Expiration Date
+	-Expiration Date is not After License Date
+
+---------------------------------------------
+
+Wilma P Flintstone            Birth Date:      15/32/1986
+1722 Pebble Lane %4           License Date:    11/1/2013
+Bedrock City, sD 57701-7899   Expiration Date: 11/15/2014
+Call Sign: KRB0T              Radio Class:     7
+
+Address Field
+	-Invalid Character in the Address Field
+State Field
+	-First Character of the State Code not Capitalized
+Birth Date
+	-Invalid Month in Birthday
+	-Invalid Day in Birthday
+Expiration Date
+	-Invalid Year in Expiration Date
+Radio Class
+	-Radio Class Code is Invalid
+Call Sign
+	-Invalid Second, Fourth, and/or Fifth Character
+	-Invalid Digit in Call Sign
+
+---------------------------------------------
+
+Rock Slate                    Birth Date:      14/30/1966
+1722 Rock Ridge               License Date:    11/1/1980
+Bedrock City, SD 57701-0      Expiration Date: 8/19/2012
+Call Sign: KS0B1              Radio Class:     G
+
+Birth Date
+	-Invalid Month in Birthday
+Call Sign
+	-Invalid Second, Fourth, and/or Fifth Character
+
+---------------------------------------------
+
+Invalid Name 1                Birth Date:      2/10/1992
+address                       License Date:    2/10/1995
+city, SD 57701-2000           Expiration Date: 2/10/2000
+Call Sign: KA2VW              Radio Class:     N
+
+Name Field
+	-Invalid Character in the Name Field
+
+---------------------------------------------
+
+name                          Birth Date:      3/10/1992
+invalid addres %^             License Date:    3/10/1993
+city, SD 57701-2000           Expiration Date: 3/10/1997
+Call Sign: KW2NW              Radio Class:     N
+
+Address Field
+	-Invalid Character in the Address Field
+
+---------------------------------------------
+
+name                          Birth Date:      3/10/1992
+address                       License Date:    3/10/1993
+invalid city %, SD 57701-2000 Expiration Date: 3/10/1994
+Call Sign: KW2NW              Radio Class:     N
+
+City Field
+	-Invalid Character in the City Field
+
+---------------------------------------------
+
+name                          Birth Date:      3/10/1992
+address                       License Date:    3/10/1993
+city, DT 57701-2000           Expiration Date: 3/10/1995
+Call Sign: KW2NW              Radio Class:     N
+
+State Field
+	-Invalid State Code
+
+---------------------------------------------
+
+name                          Birth Date:      3/10/1992
+address                       License Date:    3/10/1993
+city, sD 57701-2000           Expiration Date: 3/10/1995
+Call Sign: KW2NW              Radio Class:     N
+
+State Field
+	-First Character of the State Code not Capitalized
+
+---------------------------------------------
+
+name                          Birth Date:      3/10/1992
+address                       License Date:    3/10/1993
+city, SD 0-2000               Expiration Date: 3/10/1995
+Call Sign: KW2NW              Radio Class:     N
+
+Zip Code
+	-Invalid 5 Digit Zip Code
+
+---------------------------------------------
+
+name                          Birth Date:      3/10/1992
+address                       License Date:    3/10/1994
+city, SD 57701-134            Expiration Date: 3/10/1996
+Call Sign: KW2NW              Radio Class:     N
+
+Zip Code
+	-Invalid 4 Digit Zip Code
+
+---------------------------------------------
+
+name                          Birth Date:      3/10/1992
+address                       License Date:    3/10/1993
+city, SD 57701-0              Expiration Date: 3/10/1996
+Call Sign: AW2NW              Radio Class:     N
+
+Call Sign
+	-Invalid First Character in Call Sign
+
+---------------------------------------------
+
+name                          Birth Date:      3/10/1992
+address                       License Date:    3/10/1993
+city, SD 57701-2000           Expiration Date: 3/10/1996
+Call Sign: K22WN              Radio Class:     N
+
+Call Sign
+	-Invalid Second, Fourth, and/or Fifth Character
+
+---------------------------------------------
+
+name                          Birth Date:      3/10/1992
+address                       License Date:    3/10/1994
+city, SD 57701-2000           Expiration Date: 3/10/1998
+Call Sign: KW$WN              Radio Class:     T
+
+Call Sign
+	-Invalid Digit in Call Sign
+
+---------------------------------------------
+
+name                          Birth Date:      3/10/1992
+address                       License Date:    3/10/1994
+city, SD 57701-2000           Expiration Date: 3/10/1998
+Call Sign: KW2NW              Radio Class:     Z
+
+Radio Class
+	-Radio Class Code is Invalid
+
+---------------------------------------------
+
+name                          Birth Date:      0/10/1992
+address                       License Date:    0/10/1992
+city, SD 57701-2000           Expiration Date: 0/10/1994
+Call Sign: KW2NW              Radio Class:     N
+
+Birth Date
+	-Invalid Month in Birthday
+License Date
+	-Invalid Month in License Date
+Expiration Date
+	-Invalid Month in Expiration Date
+
+---------------------------------------------
+
+name                          Birth Date:      3/40/1992
+address                       License Date:    3/50/1992
+city, SD 57701-2000           Expiration Date: 3/8/1992
+Call Sign: KW2NW              Radio Class:     N
+
+Birth Date
+	-Invalid Day in Birthday
+License Date
+	-Invalid Day in License Date
+Expiration Date
+	-Expiration Date is not After License Date
+
+---------------------------------------------
+
+name                          Birth Date:      3/10/904
+address                       License Date:    3/10/904
+city, SD 57701-2000           Expiration Date: 3/10/1904
+Call Sign: KW2NW              Radio Class:     N
+
+Birth Date
+	-Invalid Year in Birthday
+License Date
+	-Invalid Year in License Date
+
+---------------------------------------------
+
+Invalid name $                Birth Date:      0/16/100
+address $                     License Date:    0/40/808
+city $, sU 0-195              Expiration Date: 0/38/252
+Call Sign: 8N$iS              Radio Class:     z
+
+Name Field
+	-Invalid Character in the Name Field
+Address Field
+	-Invalid Character in the Address Field
+City Field
+	-Invalid Character in the City Field
+State Field
+	-Invalid State Code
+	-First Character of the State Code not Capitalized
+Zip Code
+	-Invalid 5 Digit Zip Code
+	-Invalid 4 Digit Zip Code
+Birth Date
+	-Invalid Month in Birthday
+	-Invalid Year in Birthday
+License Date
+	-Invalid Month in License Date
+	-Invalid Day in License Date
+	-Invalid Year in License Date
+Expiration Date
+	-Invalid Month in Expiration Date
+	-Invalid Day in Expiration Date
+	-Invalid Year in Expiration Date
+	-Expiration Date is not After License Date
+Radio Class
+	-Radio Class Code is Invalid
+Call Sign
+	-Invalid First Character in Call Sign
+	-Invalid Second, Fourth, and/or Fifth Character
+	-Invalid Digit in Call Sign
+	-Call Sign not Upper Case
+
+---------------------------------------------
+
